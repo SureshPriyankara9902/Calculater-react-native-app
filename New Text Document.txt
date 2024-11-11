@@ -1,0 +1,1 @@
+java -jar path_to_bundletool.jar build-apks --bundle=path_to_your_aab_file.aab --output=my_app.apks --mode=universal
